@@ -53,13 +53,13 @@ body {
     color: #333;
 }
 
-.article-copy {
+.article-paragraphs {
     max-width: 600px;
     margin: 25px auto 25px auto;
 }
 
-.copy {
-    margin: 0 auto 20px auto;
+.paragraph {
+    margin: 20px auto 20px auto;
     color: #222;
 }
 
